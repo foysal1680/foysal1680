@@ -8,6 +8,7 @@
 - 📫 How to reach me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning messy code into clean, modular logic that earns peer and professional approval!
+- 
 🧑‍💻 About Me :
 Hi, I’m currently working on web development projects with a focus on clean UI and modular logic. I’m actively learning full-stack development using the MERN stack and enjoy collaborating on frontend/backend integration. If you're into web development, feel free to reach out I’m always open to sharing ideas, solving bugs, and building something impactful together. 
 
